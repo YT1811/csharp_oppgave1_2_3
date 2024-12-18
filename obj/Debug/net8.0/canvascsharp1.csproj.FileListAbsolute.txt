@@ -1,0 +1,14 @@
+C:\Users\Instruktor\Desktop\Csharpcanvas\canvascsharp1\bin\Debug\net8.0\canvascsharp1.exe
+C:\Users\Instruktor\Desktop\Csharpcanvas\canvascsharp1\bin\Debug\net8.0\canvascsharp1.deps.json
+C:\Users\Instruktor\Desktop\Csharpcanvas\canvascsharp1\bin\Debug\net8.0\canvascsharp1.runtimeconfig.json
+C:\Users\Instruktor\Desktop\Csharpcanvas\canvascsharp1\bin\Debug\net8.0\canvascsharp1.dll
+C:\Users\Instruktor\Desktop\Csharpcanvas\canvascsharp1\bin\Debug\net8.0\canvascsharp1.pdb
+C:\Users\Instruktor\Desktop\Csharpcanvas\canvascsharp1\obj\Debug\net8.0\canvascsharp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Instruktor\Desktop\Csharpcanvas\canvascsharp1\obj\Debug\net8.0\canvascsharp1.AssemblyInfoInputs.cache
+C:\Users\Instruktor\Desktop\Csharpcanvas\canvascsharp1\obj\Debug\net8.0\canvascsharp1.AssemblyInfo.cs
+C:\Users\Instruktor\Desktop\Csharpcanvas\canvascsharp1\obj\Debug\net8.0\canvascsharp1.csproj.CoreCompileInputs.cache
+C:\Users\Instruktor\Desktop\Csharpcanvas\canvascsharp1\obj\Debug\net8.0\canvascsharp1.dll
+C:\Users\Instruktor\Desktop\Csharpcanvas\canvascsharp1\obj\Debug\net8.0\refint\canvascsharp1.dll
+C:\Users\Instruktor\Desktop\Csharpcanvas\canvascsharp1\obj\Debug\net8.0\canvascsharp1.pdb
+C:\Users\Instruktor\Desktop\Csharpcanvas\canvascsharp1\obj\Debug\net8.0\canvascsharp1.genruntimeconfig.cache
+C:\Users\Instruktor\Desktop\Csharpcanvas\canvascsharp1\obj\Debug\net8.0\ref\canvascsharp1.dll
